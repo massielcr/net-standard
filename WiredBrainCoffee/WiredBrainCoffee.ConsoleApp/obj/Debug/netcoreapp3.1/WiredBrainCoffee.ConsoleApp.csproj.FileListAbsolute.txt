@@ -1,0 +1,16 @@
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.exe
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.deps.json
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.runtimeconfig.json
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.runtimeconfig.dev.json
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.dll
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.pdb
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.Simulators.dll
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp3.1\WiredBrainCoffee.Simulators.pdb
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.csprojAssemblyReference.cache
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.AssemblyInfoInputs.cache
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.AssemblyInfo.cs
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.csproj.CopyComplete
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.dll
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.pdb
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ConsoleApp.genruntimeconfig.cache

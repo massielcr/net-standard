@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAEF4r6oJtFvt2yh0es5M59xUbwCSvyz05O1A7wkzwAVEZ7bRm06pFg6pMmgFQao/AipwJA6Rg3iYHiyIoON1w==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\net-standards\\WiredBrainCoffee\\WiredBrainCoffee.Simulators\\WiredBrainCoffee.Simulators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\owner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

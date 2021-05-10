@@ -1,0 +1,8 @@
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.1\WiredBrainCoffee.Simulators.deps.json
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.1\WiredBrainCoffee.Simulators.dll
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netstandard2.1\WiredBrainCoffee.Simulators.pdb
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.1\WiredBrainCoffee.Simulators.AssemblyInfoInputs.cache
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.1\WiredBrainCoffee.Simulators.AssemblyInfo.cs
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.1\WiredBrainCoffee.Simulators.csproj.CoreCompileInputs.cache
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.1\WiredBrainCoffee.Simulators.dll
+C:\GITHUB\net-standards\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netstandard2.1\WiredBrainCoffee.Simulators.pdb

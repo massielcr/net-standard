@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WiredBrainCoffee.Simulators/1.0.0": {
+        "runtime": {
+          "WiredBrainCoffee.Simulators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiredBrainCoffee.Simulators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
