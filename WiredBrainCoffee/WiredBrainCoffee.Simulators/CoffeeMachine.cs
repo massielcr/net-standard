@@ -18,7 +18,7 @@ namespace WiredBrainCoffee.Simulators
         public void MakeCappuccino()
         {
             CounterCappuccino++;
-            Console.WriteLine($"Counter Cappuccino: {CounterCappuccino}");
+            Console.WriteLine($"Make Cappuccino {CounterCappuccino}");
             _coffeeMachineStateSaver.Save(new CoffeeMachineState { CounterCappuccino = CounterCappuccino});
         }
     }

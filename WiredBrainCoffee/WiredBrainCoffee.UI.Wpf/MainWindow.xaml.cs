@@ -14,7 +14,6 @@ namespace WiredBrainCoffee.UI.Wpf
             InitializeComponent();
             coffeeMachine = new CoffeeMachine();
             txtCappuccinoCounter.Text = coffeeMachine.CounterCappuccino.ToString();
-
         }
 
         private void ButtonMakeCappuccinoClick(object sender, RoutedEventArgs e)

@@ -9,7 +9,6 @@ namespace WiredBrainCoffee.ConsoleApp
         {
             var coffeeMachine = new CoffeeMachine();
             coffeeMachine.MakeCappuccino();
-            coffeeMachine.MakeCappuccino();
 
             Console.WriteLine($"Counter Cappuccino: {coffeeMachine.CounterCappuccino}");
             Console.ReadLine();
