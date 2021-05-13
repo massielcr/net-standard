@@ -21,5 +21,10 @@ namespace WiredBrainCoffee.Simulators
             Console.WriteLine($"Make Cappuccino {CounterCappuccino}");
             _coffeeMachineStateSaver.Save(new CoffeeMachineState { CounterCappuccino = CounterCappuccino});
         }
+
+        public void ShowStoredState()
+        {
+            _coffeeMachineStateSaver.ShowStoredJson();
+        }
     }
 }

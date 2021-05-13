@@ -21,5 +21,10 @@ namespace WiredBrainCoffee.UI.Wpf
             coffeeMachine.MakeCappuccino();
             txtCappuccinoCounter.Text = coffeeMachine.CounterCappuccino.ToString();
         }
+
+        private void ButtonShowStorageClick(object sender, RoutedEventArgs e)
+        {
+            coffeeMachine.ShowStoredState();
+        }
     }
 }

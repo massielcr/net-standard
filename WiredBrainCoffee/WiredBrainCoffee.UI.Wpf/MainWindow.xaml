@@ -9,6 +9,7 @@
     <StackPanel>
         <TextBlock Text="Counter cappuccino" Margin="0.5"></TextBlock>
         <TextBox x:Name="txtCappuccinoCounter" IsReadOnly="True" Margin="5"></TextBox>
-        <Button Content="Make Cappuccino" Click="ButtonMakeCappuccinoClick" HorizontalAlignment="Left" Width="200" Margin="5"></Button>        
+        <Button Content="Make Cappuccino" Click="ButtonMakeCappuccinoClick" HorizontalAlignment="Left" Width="200" Margin="5"></Button>
+        <Button Content="Show Storage State" Click="ButtonShowStorageClick" HorizontalAlignment="Left" Width="200" Margin="5"></Button>
     </StackPanel>
 </Window>
