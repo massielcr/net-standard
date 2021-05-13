@@ -8,9 +8,12 @@ namespace WiredBrainCoffee.ConsoleApp
         static void Main(string[] args)
         {
             var coffeeMachine = new CoffeeMachine();
-            coffeeMachine.MakeCappuccino();
 
+            coffeeMachine.MakeCappuccino();
             Console.WriteLine($"Counter Cappuccino: {coffeeMachine.CounterCappuccino}");
+
+            coffeeMachine.ShowStoredState();
+
             Console.ReadLine();
         }
     }
