@@ -9,14 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\images\logo.png" Link="images\logo.png">
+    <Compile Remove="images\**" />
+    <EmbeddedResource Remove="images\**" />
+    <None Remove="images\**" />
+    <None Include="..\images\logo.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="images\" />
   </ItemGroup>
 
   <ItemGroup>

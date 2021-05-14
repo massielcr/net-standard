@@ -9,6 +9,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="images\**" />
+    <EmbeddedResource Remove="images\**" />
+    <None Remove="images\**" />
+    <None Include="..\images\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
@@ -16,16 +26,5 @@
     <Reference Include="PresentationCore"></Reference>
     <Reference Include="PresentationFramework"></Reference>
     <Reference Include="WindowsBase"></Reference>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="..\images\logo.png" Link="images\logo.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="images\" />
   </ItemGroup>
 </Project>
