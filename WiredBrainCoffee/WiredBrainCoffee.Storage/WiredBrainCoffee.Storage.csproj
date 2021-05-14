@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFrameworks>net461;netstandard1.3</TargetFrameworks>
+    <Authors>Wired Brain Coffee</Authors>
+    <Description>Use this package to store the state of a coffee machine</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>logo.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,5 +16,16 @@
     <Reference Include="PresentationCore"></Reference>
     <Reference Include="PresentationFramework"></Reference>
     <Reference Include="WindowsBase"></Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\images\logo.png" Link="images\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="images\" />
   </ItemGroup>
 </Project>
