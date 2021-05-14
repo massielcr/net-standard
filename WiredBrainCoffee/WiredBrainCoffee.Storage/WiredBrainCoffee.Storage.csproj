@@ -1,11 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.3</TargetFramework>
+    <TargetFrameworks>net461;netstandard1.3</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
+    <Reference Include="PresentationCore"></Reference>
+    <Reference Include="PresentationFramework"></Reference>
+    <Reference Include="WindowsBase"></Reference>
+  </ItemGroup>
 </Project>

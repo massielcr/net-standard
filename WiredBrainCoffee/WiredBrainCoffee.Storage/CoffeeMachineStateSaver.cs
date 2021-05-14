@@ -29,18 +29,21 @@ namespace WiredBrainCoffee.Storage
         public void ShowStoredJson()
         {
             var json = File.Exists(_fileName) ? File.ReadAllText(_fileName) : "<empty>";
+#if NETSTANDARD1_3
             Console.WriteLine($"Stored JSON {json}");
-            //var window = new Window
-            //{
-            //    Title = "Stored JSON",
-            //    Content = json,
-            //    WindowStartupLocation = WindowStartupLocation.CenterScreen,
-            //    FontSize = 20,
-            //    Width = 300,
-            //    Height = 300
-            //};
+#elif NET461
+            var window = new Window
+            {
+                Title = "Stored JSON",
+                Content = json,
+                WindowStartupLocation = WindowStartupLocation.CenterScreen,
+                FontSize = 20,
+                Width = 300,
+                Height = 300
+            };
 
-            //window.Show();
+            window.Show();
+#endif
         }
     }
 }
